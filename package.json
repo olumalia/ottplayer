@@ -1,22 +1,22 @@
 {
-	"name": "OTT-Player",
-	"date": "2018.03.18",
+	"name": "SIPTV",
+	"date": "10.01.2019",
 	"version": "1.0.0",
-	"description": "OTT-Player - ВСЁ ВАШЕ ТВ в одном приложении",
+	"description": "SIPTV",
 	"author": {
-		"name": "BetaMaster"
+		"name": "olumalia"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/betamaster2/ottplayer.git"
+		"url": "https://github.com/olumalia/ottplayer.git"
 	},
 	"options": [],
 	"config": {
 		"type": "app",
 		"category": "apps",
-		"name": "OTT-Player",
+		"name": "SIPTV",
 		"legacy": true,
-		"description": "OTT-Player - ВСЁ ВАШЕ ТВ в одном приложении",
+		"description": "SIPTV",
 		"backgroundColor": "#00C8DA",
 		"icons": "icons"
 	}
